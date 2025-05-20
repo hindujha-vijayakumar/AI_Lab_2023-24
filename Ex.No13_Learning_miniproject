@@ -32,6 +32,7 @@
 12.Use accuracy_score, confusion_matrix, and classification_report to evaluate the model's performance.
 
 ### Program:
+///
 
   import pandas as pd
   import numpy as np
@@ -67,8 +68,11 @@
   print("Accuracy:", accuracy_score(y_test, y_pred))
   print("Confusion Matrix:\n", confusion_matrix(y_test, y_pred))
   print("Classification Report:\n", classification_report(y_test, y_pred)) 
+///
 
 ### Output:
+      
+         
     
 ### Result:
 Thus the system was trained successfully and the prediction was carried out.
