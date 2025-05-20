@@ -72,6 +72,8 @@
 
 ### Output:
 
-    
+    (https://github.com/user-attachments/assets/e59a4d90-e284-49da-af88-1a222e760e4b)
+    (https://github.com/user-attachments/assets/c3afcd4e-27b6-4e0f-9c14-d7e1929bcbe4)
+
 ### Result:
 Thus the system was trained successfully and the prediction was carried out.
